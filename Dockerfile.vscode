@@ -1,8 +1,8 @@
 # syntax=docker/dockerfile:1.4
 # parameters
-ARG EXERCISE_NAME="dd21-ukf"
-ARG DESCRIPTION="VSCode - In this learning experience you will learn how to filter the raw measurements you get from the Duckiedrone's sensors."
-ARG MAINTAINER="Davide Iafrate (davide.iafrate@duckietown.com)"
+ARG EXERCISE_NAME="<LX_NAME_HERE>"
+ARG DESCRIPTION="VSCode - <DESCRIPTION_HERE>"
+ARG MAINTAINER="<YOUR_FULL_NAME> (<YOUR_EMAIL_ADDRESS>)"
 
 # ==================================================>
 # ==> Do not change the code below this line
